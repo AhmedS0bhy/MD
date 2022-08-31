@@ -1,19 +1,19 @@
-# Configure Git
+# Git cheatsheet
 
-```powershell 
-git config --global user.name "w3schools-test"
-git config --global user.email "test@w3schools.com"
-```
-# Initialize Git
 ```powershell
-git init 
-```
-# Git Commit
-```
-git commit -m "First release of Hello World!"
-```
-# Git Commit Log
-```
-git log
-```
+gh auth login                   # Authonicate  
+git init                        # initialize new repo 
 
+# Commit and logs 
+git commit -m "First release"   # Create commit
+git log                         # list commit logs 
+git push                        # upload the commit 
+git pull                        # get the updates from git 
+git reset --hard <commit hash>  # retrive to brevious version 
+
+## Branches 
+git branch                      # list git branches 
+git checkout -b <new branch>    # create a new branch 
+git checkout <name of branch>   # move to new branch 
+git merge                       # merge two branches 
+```
