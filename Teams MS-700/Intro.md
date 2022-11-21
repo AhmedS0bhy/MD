@@ -181,3 +181,38 @@ When a group or team is deleted, most of the information in the connected servic
     can be `deleted` from within the team by the team owner. 
 - Project  
 assign the project to another group
+
+# Plan for Teams governance
+
+* who can create 
+    - sharepoint
+    - team
+    - shared lib (oneDrive)
+    - Group 
+
+* Naming Conventions
+    - prefix 
+    - suffix 
+    - Custom Blocked 
+
+* Configure Guest Access 
+    - who can add guest users 
+    - sharing options for guest 
+    - turn on or off guest access
+    - configure external sharing 
+
+* Configure expiry 
+    - Set expiration duration 
+    - choosing groups policy to apply 
+
+* Seat policies 
+    - Retention policy
+    - eDiscovery policy
+    - Data loss prevention 
+
+* use of templates 
+    - team templates 
+    - sharepoint site 
+    - themes 
+
+
